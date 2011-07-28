@@ -1,0 +1,9 @@
+XHProf Analytics provides a user interface for analysing XHProf profiling data reports.
+
+It is inspired by:
+https://github.com/preinheimer/xhprof
+https://github.com/facebook/xhprof
+
+However, aims at a cleaner and more scalable solution, built form the ground up.
+
+Initial application import coming soonish...
